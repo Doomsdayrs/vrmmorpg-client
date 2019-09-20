@@ -15,10 +15,5 @@ _global_script_class_icons={
 
 [application]
 
-config/name="vrmmorpg"
-run/main_scene="res://login.tscn"
-config/icon="res://icon.png"
-
-[rendering]
-
-environment/default_environment="res://default_env.tres"
+config/name="Xuni"
+run/main_scene="res://scenes/MainMenu.tscn"

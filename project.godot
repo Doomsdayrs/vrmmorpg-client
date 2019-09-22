@@ -17,3 +17,11 @@ _global_script_class_icons={
 
 config/name="Xuni"
 run/main_scene="res://scenes/MainMenu.tscn"
+
+[autoload]
+
+UserData="*res://addons/github-integration/scripts/user_data.gd"
+
+[gdnative]
+
+singletons=[  ]

@@ -1,5 +1,5 @@
 [gd_resource type="NativeScript" format=2]
 
 [resource]
-resource_name = "MainMenu"
-class_name = "MainMenu"
+resource_name = "Main"
+class_name = "Main"
